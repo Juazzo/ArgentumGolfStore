@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- icon -->
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://example.com/argentum-golf-store-logo.ico"
+    />
+    <!-- styles css -->
+    <link rel="stylesheet" href="styles.css" />
+    <title>Argentum Golf Store | Home</title>
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="nav-center" style="background-color: black">
+        <!-- links -->
+        <div>
+          <button class="toggle-nav">
+            <i class="fas fa-bars"></i>
+          </button>
+          <ul class="nav-links">
+            <li>
+              <a class="nav-link" href="/ArgentumGolfStore/"> home </a>
+            </li>
+            <li>
+              <a class="nav-link" href="/ArgentumGolfStore/products.html"> products </a>
+            </li>
+            <li>
+              <a class="nav-link" href="/ArgentumGolfStore/about.html"> about </a>
+            </li>
+          </ul>
+        </div>
+        <!-- logo -->
+        <img
+          src="https://example.com/argentum-golf-store-logo.gif"
+          class="nav-logo"
+          alt="Argentum Golf Store Logo"
+          style="width: 12rem; border-radius: 10px"
+        />
+        <!-- cart icon -->
+        <div class="toggle-container">
+          <button class="toggle-cart">
+            <i class="fas fa-shopping-cart"></i>
+          </button>
+          <span class="cart-item-count">1</span>
+        </div>
+      </div>
+    </nav>
+    <!-- hero -->
+    <section class="hero">
+      <div class="hero-container">
+        <h1 class="text-slanted">Argentum Golf Store</h1>
+        <h3>- For Golf Enthusiasts -</h3>
+        <a class="hero-btn" href="/ArgentumGolfStore/products.html"> shop now </a>
+      </div>
+    </section>
+    <!-- sidebar -->
+    <div class="sidebar-overlay">
+      <aside class="sidebar">
+        <!-- close -->
+        <button class="sidebar-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <!-- links -->
+        <ul class="sidebar-links">
+          <li>
+            <a class="sidebar-link" href="/ArgentumGolfStore/">
+              <i class="fas fa-home fa-fw"></i>
+              home
+            </a>
+          </li>
+          <li>
+            <a class="sidebar-link" href="/ArgentumGolfStore/products.html">
+              <i class="fas fa-golf-ball fa-fw"></i>
+              products
+            </a>
+          </li>
+          <li>
+            <a class="sidebar-link" href="/ArgentumGolfStore/about.html">
+              <i class="fas fa-info-circle fa-fw"></i>
+              about
+            </a>
+          </li>
+        </ul>
+      </aside>
+    </div>
+    <!-- cart -->
+    <div class="cart-overlay">
+      <aside class="cart">
+        <button class="cart-close">
+          <i class="fas fa-times"></i>
+        </button>
+        <header>
+          <h3 class="text-slanted">your bag</h3>
+        </header>
+        <!-- cart items -->
+        <div class="cart-items"></div>
+        <!-- footer -->
+        <footer>
+          <h3 class="cart-total text-slanted">total : $12.99</h3>
+          <button class="cart-checkout btn">checkout</button>
+        </footer>
+      </aside>
+    </div>
+    <!-- featured products -->
+    <section class="section featured">
+      <div class="title">
+        <h2><span>/</span> featured</h2>
+      </div>
+      <div class="featured-center section-center">
+        <h2 class="section-loading">loading...</h2>
+      </div>
+      <a class="btn" href="/ArgentumGolfStore/products.html"> view all products </a>
+    </section>
+    <script type="module" src="/ArgentumGolfStore/src/index.js"></script>
+  </body>
+</html>
