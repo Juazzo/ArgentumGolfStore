@@ -8,7 +8,7 @@
       ],
       "featured": true,
       "price": 2999,
-      "name": "Balls",
+      "name": "Jogger",
       "image": [
         {
           "id": "attcvDDMikF6G2iNi",
@@ -159,7 +159,7 @@
   {
     "id": "recZEougL5bbY4AEx",
     "fields": {
-      "company": "Tees",
+      "company": "Shoes",
       "colors": [
         "#1a1a1a"
       ],
@@ -198,7 +198,7 @@
   {
     "id": "recjMK1jgTb2ld7sv",
     "fields": {
-      "company": "Hoodies",
+      "company": "Pants",
       "colors": [
         "#039aff"
       ],
@@ -237,7 +237,7 @@
   {
     "id": "recmg2a1ctaEJNZhu",
     "fields": {
-      "company": "Tees",
+      "company": "Irons",
       "colors": [
         "#fff"
       ],
@@ -277,7 +277,7 @@
   {
     "id": "recvKMNR3YFw0bEt3",
     "fields": {
-      "company": "Hoodies",
+      "company": "Putters",
       "colors": [],
       "featured": true,
       "price": 3999,
@@ -315,7 +315,7 @@
   {
     "id": "recxaXFy5IW539sgM",
     "fields": {
-      "company": "Joggers",
+      "company": "Drivers",
       "colors": [
         "#1a1a1a"
       ],
@@ -354,7 +354,7 @@
   {
     "id": "recyqtRglGNGtO4Q5",
     "fields": {
-      "company": "Hoodies",
+      "company": "Jackets",
       "colors": [
         "#222"
       ],
