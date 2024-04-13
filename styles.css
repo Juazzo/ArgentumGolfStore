@@ -725,7 +725,7 @@ Single Product Page
   background: var(--clr-grey-10);
   color: var(--clr-grey-5);
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url(https://acdn.mitiendanube.com/stores/951/831/themes/rio/1-slide-1695141064616-3217671731-9b24c405c211e78ae67822ced58dba301695141074-1920-1920.webp?1328706635)
+    url(./img/portada.jpg)
       center/cover;
   background-position: 0 28%;
 }
