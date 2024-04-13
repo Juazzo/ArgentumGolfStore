@@ -276,7 +276,7 @@ Hero
   min-height: 100vh;
   margin-top: -6rem;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(https://acdn.mitiendanube.com/stores/951/831/themes/rio/1-slide-1688047023279-2124295395-d6a52be3a16861f9a634599ccec86e921688047033-1920-1920.webp?1341517185)
+    url(./img/portada.jpg)
       center/cover;
   display: grid;
   place-items: center;
