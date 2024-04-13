@@ -2,13 +2,13 @@
   {
     "id": "rec43w3ipXvP28vog",
     "fields": {
-      "company": "Joggers",
+      "company": "T-shirts",
       "colors": [
         "#0087d3"
       ],
       "featured": true,
       "price": 2999,
-      "name": "CYB3R JOGGER",
+      "name": "Balls",
       "image": [
         {
           "id": "attcvDDMikF6G2iNi",
@@ -42,7 +42,7 @@
   {
     "id": "rec4f2RIftFCb7aHh",
     "fields": {
-      "company": "Tees",
+      "company": "Gloves",
       "colors": [
         "#fff"
       ],
@@ -81,7 +81,7 @@
   {
     "id": "rec8kkCmSiMkbkiko",
     "fields": {
-      "company": "Sweaters",
+      "company": "Bags",
       "colors": [
         "#393334"
       ],
@@ -120,7 +120,7 @@
   {
     "id": "recNWGyP7kjFhSqw3",
     "fields": {
-      "company": "Hoodies",
+      "company": "Hats",
       "colors": [
         "#272726"
       ],
