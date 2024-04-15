@@ -7,14 +7,14 @@
         "#0087d3"
       ],
       "featured": true,
-      "price": 2999,
-      "name": "Jogger",
+      "price": 5999,
+      "name": "FJ polo ",
       "image": [
         {
           "id": "attcvDDMikF6G2iNi",
           "width": 1000,
           "height": 639,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+          "url": "./img/polo FJ.avif",
           "filename": "product-1.jpeg",
           "size": 62864,
           "type": "image/jpeg",
