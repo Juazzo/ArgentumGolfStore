@@ -1,20 +1,20 @@
 {
   "id": "rec43w3ipXvP28vog",
   "fields": {
-    "company": "Joggers",
+    "company": "T-shirts",
     "colors": [
       "#1a1a1a"
     ],
     "featured": true,
-    "price": 2999,
-    "name": "CYB3R JOGGER",
-    "description": "OVERSIZED FIT - JOGGING",
+    "price": 5999,
+    "name": "FJ polo",
+    "description": "Ultimate high-tech performance garment to wear on the course. Offering contemporary styling with UV sun protection and easy care fabric, each garment wicks moisture away from the body and regulates body temperature keeping you cool and dry.",
     "image": [
       {
         "id": "attcvDDMikF6G2iNi",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+        "url": "./img/polo2.jpg",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
