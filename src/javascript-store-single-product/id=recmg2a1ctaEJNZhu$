@@ -1,36 +1,36 @@
 {
   "id": "recmg2a1ctaEJNZhu",
   "fields": {
-    "company": "Tees",
+    "company": "Irons",
     "colors": [
       "#fff"
     ],
     "featured": true,
-    "price": 1499,
-    "name": "Angel TEE",
-    "description": "OVERSIZED PIMA T-SHIRT, PRINTED WITH DTG",
+    "price": 19999,
+    "name": "Titleist 7 Iron",
+    "description": "With T200, distance has never felt so good. Built with a forged face, hollow-body construction and shaped by Tour technologies, it delivers incredible launch and forgiveness in a pure players design.",
     "image": [
       {
         "id": "attqutUt355traBeS",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+        "url": "img/Iron7.avif",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+            "url": "img/Iron7.avif",
             "width": 56,
             "height": 36
           },
           "large": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+            "url": "img/Iron7.avif",
             "width": 801,
             "height": 512
           },
           "full": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+            "url": "img/Iron7.avif",
             "width": 3000,
             "height": 3000
           }

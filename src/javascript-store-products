@@ -242,30 +242,30 @@
         "#fff"
       ],
       "featured": true,
-      "price": 1499,
-      "name": "Angel TEE",
+      "price": 19999,
+      "name": "Titleist 7 Iron",
       "image": [
         {
           "id": "attqutUt355traBeS",
           "width": 1280,
           "height": 846,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+          "url": "img/Iron7.avif",
           "filename": "product-3.jpg",
           "size": 196312,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+              "url": "img/Iron7.avif",
               "width": 54,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+              "url": "img/Iron7.avif",
               "width": 775,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtangels2front1-8b4c7d5e7e8d42168916922286629729-1024-1024.webp",
+              "url": "img/Iron7.avif",
               "width": 3000,
               "height": 3000
             }
