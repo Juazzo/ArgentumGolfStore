@@ -319,30 +319,30 @@
       "colors": [
         "#1a1a1a"
       ],
-      "price": 2999,
-      "name": "MILEAGE JOGGERS",
+      "price": 59999,
+      "name": "TSR2 Driver",
       "image": [
         {
           "id": "attjWNxk7KKzcLPDx",
           "width": 1000,
           "height": 652,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+          "url": "img/driver.avif",
           "filename": "product-1.jpeg",
           "size": 61946,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+              "url": "img/driver.avif",
               "width": 55,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+              "url": "img/driver.avif",
               "width": 785,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+              "url": "img/driver.avif",
               "width": 3000,
               "height": 3000
             }

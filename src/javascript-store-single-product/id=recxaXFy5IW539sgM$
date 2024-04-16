@@ -1,36 +1,36 @@
 {
   "id": "recxaXFy5IW539sgM",
   "fields": {
-    "company": "Joggers",
+    "company": "Drivers",
     "colors": [
       "#1a1a1a"
     ],
     "featured": true,
-    "price": 2999,
-    "name": "MILEAGE JOGGERS",
-    "description": "OVERSIZED FIT - JOGGING",
+    "price": 59999,
+    "name": "TSR2 Driver",
+    "description": "Titleist TSR2 Driver is slimmed down and ramped up. For players who make contact across the entire surface of the face, it combines our most significant CG shift with a new Multi-Plateau Variable Face Thickness design to boost speed across the face. All within a cleaner, refined shape that inspires total player confidence.",
     "image": [
       {
         "id": "attcvDDMikF6G2iNi",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+        "url": "img/driver.avif",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+            "url": "img/driver.avif",
             "width": 56,
             "height": 36
           },
           "large": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+            "url": "img/driver.avif",
             "width": 801,
             "height": 512
           },
           "full": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/jogging-verde-11-9140122f0b726d60e416809983563659-1024-1024.webp",
+            "url": "img/driver.avif",
             "width": 3000,
             "height": 3000
           }
