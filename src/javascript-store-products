@@ -202,30 +202,30 @@
       "colors": [
         "#039aff"
       ],
-      "price": 3999,
-      "name": "ANGEL HOODIE",
+      "price": 9999,
+      "name": "FJ Pants",
       "image": [
         {
           "id": "attiwrd7gSI1oGxRK",
           "width": 1280,
           "height": 720,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+          "url": "img/Pants1.avif",
           "filename": "product-6.jpg",
           "size": 178908,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+              "url": "img/Pants1.avif",
               "width": 64,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+              "url": "img/Pants1.avif",
               "width": 910,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_angelfront1-583a7089e751c5187c16924543331803-1024-1024.webp",
+              "url": "img/Pants1.avif",
               "width": 3000,
               "height": 3000
             }
