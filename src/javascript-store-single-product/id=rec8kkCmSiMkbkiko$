@@ -1,36 +1,36 @@
 {
   "id": "rec8kkCmSiMkbkiko",
   "fields": {
-    "company": "Sweaters",
+    "company": "Bags",
     "colors": [
       "#393334"
     ],
     "featured": true,
-    "price": 3499,
-    "name": "AVSD SWEATER",
-    "description": "Printed Morley SWEATER.",
+    "price": 19999,
+    "name": "Titleist Bag",
+    "description": "The Players 4 Stand Bag features a lightweight, premium-material construction, a premium double strap and high-grade aluminum legs. Carrying has never been easier and more enjoyable.",
     "image": [
       {
         "id": "attcvDDMikF6G2iNi",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+        "url": "img/bolsa.avif",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+            "url": "img/bolsa.avif",
             "width": 56,
             "height": 36
           },
           "large": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+            "url": "img/bolsa.avif",
             "width": 801,
             "height": 512
           },
           "full": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+            "url": "img/bolsa.avif",
             "width": 3000,
             "height": 3000
           }

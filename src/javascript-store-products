@@ -85,30 +85,30 @@
       "colors": [
         "#393334"
       ],
-      "price": 3499,
-      "name": "AVSD SWEATER",
+      "price": 19999,
+      "name": "Titleist Bag",
       "image": [
         {
           "id": "attIieysyB9zQmQo9",
           "width": 1000,
           "height": 667,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+          "url": "img/bolsa.avif",
           "filename": "product-4.jpeg",
           "size": 49641,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+              "url": "img/bolsa.avif",
               "width": 54,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+              "url": "img/bolsa.avif",
               "width": 768,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/sw11-98bf7256ddcec80c2316927476033215-1024-1024.webp",
+              "url": "img/bolsa.avif",
               "width": 3000,
               "height": 3000
             }
