@@ -1,36 +1,36 @@
 {
   "id": "recZEougL5bbY4AEx",
   "fields": {
-    "company": "Tees",
+    "company": "Shoes",
     "colors": [
       "#1a1a1a"
     ],
     "featured": true,
-    "price": 1499,
-    "name": "The Death TEE",
-    "description": "OVERSIZED PIMA T-SHIRT, PRINTED WITH DTG",
+    "price": 14999,
+    "name": "FJ Shoes",
+    "description": "FJ shoes offer complete traction and can be easily maintained round after round. Lightweight comfort and super-cushioned foam deliver an incredibly flexible and comfortable ride.",
     "image": [
       {
         "id": "attcvDDMikF6G2iNi",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+        "url": "img/zapato.avif",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+            "url": "img/zapato.avif",
             "width": 56,
             "height": 36
           },
           "large": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+            "url": "img/zapato.avif",
             "width": 801,
             "height": 512
           },
           "full": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_tshirtdemons11-609289c3c42cf988d216922277981309-1024-1024.webp",
+            "url": "img/zapato.avif",
             "width": 3000,
             "height": 3000
           }
