@@ -280,30 +280,30 @@
       "company": "Putters",
       "colors": [],
       "featured": true,
-      "price": 3999,
-      "name": "HELL SHELL HOODIE",
+      "price": 39999,
+      "name": "Super Select Newport 2 Plus",
       "image": [
         {
           "id": "atttOzyYI8P1XfJu8",
           "width": 1280,
           "height": 924,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+          "url": "img/Putt2.avif",
           "filename": "product-2.jpg",
           "size": 195175,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+              "url": "img/Putt2.avif",
               "width": 50,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+              "url": "img/Putt2.avif",
               "width": 709,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/azul1-86e21c3b16f3588f3116809968531296-1024-1024.webp",
+              "url": "img/Putt2.avif",
               "width": 3000,
               "height": 3000
             }
