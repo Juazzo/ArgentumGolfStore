@@ -1,36 +1,36 @@
 {
   "id": "recyqtRglGNGtO4Q5",
   "fields": {
-    "company": "Joggers",
+    "company": "Jackets",
     "colors": [
       "#222"
     ],
     "featured": true,
-    "price": 3999,
-    "name": "SIXDO HOODIE",
-    "description": "BOXY FIT, OVERSIZED AND PRINTED WITH DTG",
+    "price": 19500,
+    "name": "HydroLite X Rain Jacket",
+    "description": "FJ HydroLite X Golf Rain Jackets are designed for warmer playing conditions with specifically placed knit panels in arms and back for increased movement and flexibility in the golf swing.",
     "image": [
       {
         "id": "attcvDDMikF6G2iNi",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+        "url": "img/Jacket.avif",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+            "url": "img/Jacket.avif",
             "width": 56,
             "height": 36
           },
           "large": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+            "url": "img/Jacket.avif",
             "width": 801,
             "height": 512
           },
           "full": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/verde-11-b973a82507b19ff08316809962093362-1024-1024.webp",
+            "url": "img/Jacket.avif",
             "width": 3000,
             "height": 3000
           }
