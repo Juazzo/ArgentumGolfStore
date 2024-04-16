@@ -20,17 +20,17 @@
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+              "url": "./img/polo2.jpg",
               "width": 56,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+              "url": "./img/polo2.jpg",
               "width": 801,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/joggin-azul-parte-de-adelante1-003981d7f5e09c030416809977334075-1024-1024.webp",
+              "url": "./img/polo2.jpg",
               "width": 3000,
               "height": 3000
             }
