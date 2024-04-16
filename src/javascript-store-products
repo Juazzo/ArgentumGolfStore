@@ -14,23 +14,23 @@
           "id": "attcvDDMikF6G2iNi",
           "width": 1000,
           "height": 639,
-          "url": "./img/polo2.jpg",
+          "url": "img/polo FJ.avif",
           "filename": "product-1.jpeg",
           "size": 62864,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "./img/polo2.jpg",
+              "url": "img/polo FJ.avif",
               "width": 56,
               "height": 36
             },
             "large": {
-              "url": "./img/polo2.jpg",
+              "url": "img/polo FJ.avif",
               "width": 801,
               "height": 512
             },
             "full": {
-              "url": "./img/polo2.jpg",
+              "url": "img/polo FJ.avif",
               "width": 3000,
               "height": 3000
             }
