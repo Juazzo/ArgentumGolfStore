@@ -1,36 +1,36 @@
 {
   "id": "recNWGyP7kjFhSqw3",
   "fields": {
-    "company": "Hoodies",
+    "company": "Hats",
     "colors": [
       "#272726"
     ],
     "featured": true,
     "price": 3999,
-    "name": "WASHED HOODIE",
-    "description": "WASHED frized hoodies, printed whit DTG",
+    "name": "Titleist Hat",
+    "description": "Our Tour Rope Hat features a trendy braided rope detail and an adjustable, snapback closure for a style that's all its own. A great look for both on and off the golf course.",
     "image": [
       {
         "id": "att5iyl4TJvd3oepN",
         "width": 1000,
         "height": 639,
-        "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+        "url": "img/Gorra1.avif",
         "filename": "product-1.jpeg",
         "size": 62864,
         "type": "image/jpeg",
         "thumbnails": {
           "small": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+            "url": "img/Gorra1.avif",
             "width": 56,
             "height": 36
           },
           "large": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+            "url": "img/Gorra1.avif",
             "width": 801,
             "height": 512
           },
           "full": {
-            "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+            "url": "img/Gorra1.avif",
             "width": 3000,
             "height": 3000
           }

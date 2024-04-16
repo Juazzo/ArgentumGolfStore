@@ -124,30 +124,30 @@
       "colors": [
         "#272726"
       ],
-      "price": 3999,
-      "name": "WASHED HOODIE",
+      "price": 3500,
+      "name": "Titleist Hat",
       "image": [
         {
           "id": "att5iyl4TJvd3oepN",
           "width": 1000,
           "height": 625,
-          "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+          "url": "img/Gorra1.avif",
           "filename": "product-1.jpeg",
           "size": 56151,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+              "url": "img/Gorra1.avif",
               "width": 58,
               "height": 36
             },
             "large": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+              "url": "img/Gorra1.avif",
               "width": 819,
               "height": 512
             },
             "full": {
-              "url": "https://acdn.mitiendanube.com/stores/951/831/products/mockup_hoodie_washedfront1-028b1afd4b75c78c9416924544775998-1024-1024.webp",
+              "url": "img/Gorra1.avif",
               "width": 3000,
               "height": 3000
             }
